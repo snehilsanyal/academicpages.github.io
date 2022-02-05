@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[Contextual Emotion Learning Challenge.](../files/paper1.pdf)</b> <br>
+<b>[Contextual Emotion Learning Challenge.](../files/paper2.pdf)</b> <br>
 
 ![image](https://user-images.githubusercontent.com/41544905/152628263-bddc7674-5316-4acc-aed4-beb5bd34123c.png)
 
@@ -13,7 +13,7 @@ author_profile: true
 - This paper was published as an outcome of the [Contextual Emotion Learning Challenge](https://sites.google.com/iiitd.ac.in/contextualemotionrecognition) organized by IEEE FG 2021
 - This paper introduces a novel emotion recognition dataset ICER (Indian Contextual Emotion Recognition) which consists of 12,446 video clips which are taken from Indian movies, web-series, short-clips from YouTube. There were two tasks Facial Expression Classification and Valence-Arousal Classification.
 
-<b>[Detection and Location Estimation of Object in Unmanned Aerial Vehicle using Single Camera and GPS.](../files/paper2.pdf)</b> <br>
+<b>[Detection and Location Estimation of Object in Unmanned Aerial Vehicle using Single Camera and GPS.](../files/paper1.pdf)</b> <br>
 
 ![image](https://user-images.githubusercontent.com/41544905/152628619-4f70ae24-50d8-49e9-8dad-6c33a7a00676.png)
 
