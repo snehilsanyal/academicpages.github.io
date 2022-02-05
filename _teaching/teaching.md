@@ -1,3 +1,10 @@
+---
+collection: teaching
+type: "Postgraduate and Research Scholars"
+permalink: /teaching/teaching
+location: "IIT Guwahati, India"
+---
+
 [Digital Signal Processors Lab]()<br>
 <b>Jan-May 2022</b><br>
 <b>Mode: Remote/Discord</b>
