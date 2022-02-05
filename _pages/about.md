@@ -22,7 +22,7 @@ I received my Bachelor's degree from [National Institute of Technology, Raipur](
 
 In my free time, I learn and build new things and constantly update my skills. Recently, I have also started contributing (at a very small scale, just began) to Open Source in GitHub. Currently I am learning about Graph Neural Networks and the libraries that implement them like [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/) and [Spektral](https://graphneural.network/). I am open for collaborations revolving around my domain (you can drop a text on LinkedIn or my mail). I am actively looking for research internship opportunities or fellowships to aid my research and increase my exposure. 
 
-Please find the list of publications [here](publications/). You can find my personal projects [here](projects/), CV [here](cv/) and my teaching experience [here](teaching/). To check out my notebooks and blogs please refer to [this section](posts/)
+Please find the list of publications [here](publications/). You can find my personal projects [here](projects/), CV [here](cv/) and my teaching experience [here](teaching/). To check out my notebooks and blogs please refer to [this section](year-archive/)
 
 ## News
 
