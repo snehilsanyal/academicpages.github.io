@@ -1,7 +1,7 @@
 ---
 title: "IIT-Guwahati Virtual Presence platform"
 collection: projects
-permalink: /projects/IITG_VP
+permalink: /projects/IITG-VP
 date: 2020-09-10
 venue: "IIT Guwahati"
 ---
