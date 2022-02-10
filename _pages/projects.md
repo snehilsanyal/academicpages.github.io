@@ -1,2 +1,8 @@
-[**IIT Guwahati Virtual Presence platform**](https://iitguwahati.github.io/Virtual-Presence-IIT-Guwahati-2020/)
-[]()
+---
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+[**IIT Guwahati Virtual Presence platform**](http://snehilsanyal.github.io/projects)
+<i>Snehil Sanyal, H Pallab Jyoti Dutta</i> 
