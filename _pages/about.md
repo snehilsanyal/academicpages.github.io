@@ -10,7 +10,7 @@ redirect_from:
 
 Hey everyone, this is Snehil. 
 
-I am currently pursusing my PhD from [Indian Institute of Technology Guwahati](https://iitg.ac.in/). I am enrolled as a research scholar with the [EEE Department](https://www.iitg.ac.in/eee/). I joined PhD in 2019 July, under the guidance of **Prof. M. K. Bhuyan**[homepage](https://iitg.ac.in/mkb/index.php). I work closely with **Dr. Debanga Raj Neog**[homepage](https://debanga.github.io/), who has recently joined as an Assistant Professor at [Mehta Family School of Data Science and Artificial Intelligence](https://www.iitg.ac.in/dsai/home) at IIT Guwahati. I am also collaborating with **Iwahori Lab**[homepage](http://www.cvl.cs.chubu.ac.jp/~iwahori/) for my PhD project on Facial Expression Recognition.
+I am currently pursusing my PhD from [Indian Institute of Technology Guwahati](https://iitg.ac.in/). I am enrolled as a research scholar with the [EEE Department](https://www.iitg.ac.in/eee/). I joined PhD in 2019 July, under the guidance of **Prof. M. K. Bhuyan** [[homepage]](https://iitg.ac.in/mkb/index.php). I work closely with **Dr. Debanga Raj Neog** [[homepage]](https://debanga.github.io/), who has recently joined as an Assistant Professor at [Mehta Family School of Data Science and Artificial Intelligence](https://www.iitg.ac.in/dsai/home) at IIT Guwahati. I am also collaborating with **Iwahori Lab** [[homepage]](http://www.cvl.cs.chubu.ac.jp/~iwahori/) for my PhD project on Facial Expression Recognition.
 
 My current research domain revolves around the following (and are not limited to): Facial Expression Recognition, Affective Computing, Graph Representation Learning. In my recent works, I am trying to harness the power of graph based architecture for facial expression recognition. 
 
