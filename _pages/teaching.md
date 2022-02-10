@@ -16,14 +16,14 @@ Repeatition of the earlier DSP Lab course.
 
 Repeatition of the Jul-Nov 2020 lab course.
 
-## [Digital Signal Processors Lab]()<br>
+## [Digital Signal Processors Lab](https://snehilsanyal.github.io/EE521/)<br>
 
 <b>Jan-May 2021</b><br>
 <b>Mode: Remote/ Discord</b>
 
 I took the Digital Signal Processors lab during Jan-May 2021 session. The mode was virtual because of the second wave of Covid in India. There were 20 students who enrolled. The lab focused on fundamentals of digital signal processing through simple assignments which can be done using Python. Submissions were accepted through GitHub Repository. For more information check this [link](https://snehilsanyal.github.io/EE521/).
 
-## [Introduction to Machine Learning Lab]()<br>
+## [Introduction to Machine Learning Lab](https://snehilsanyal.github.io/EE524/)<br>
 
 <b>Jul-Nov 2020</b><br>
 <b>Mode: Remote/Discord</b>
