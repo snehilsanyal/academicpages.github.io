@@ -52,13 +52,13 @@ Publications
 
 ### Conferences:<br>
 
-1. December 2021, [Contextual Emotion Learning Challenge](https://snehilsanyal.github.io/files/paper2.pdf), in _16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021)_<br>
-2. April 2020, [Detection and Location Estimation of Object in Unmanned Aerial Vehicle using Single Camera and GPS](https://snehilsanyal.github.io/files/paper1.pdf) in _IEEE First International Conference on Power, Control and Computing Technologies (ICPC2T), 2020_<br>
+1. [Contextual Emotion Learning Challenge](https://snehilsanyal.github.io/files/paper2.pdf), in _16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021), December 2021_<br>
+2. [Detection and Location Estimation of Object in Unmanned Aerial Vehicle using Single Camera and GPS](https://snehilsanyal.github.io/files/paper1.pdf) in _IEEE First International Conference on Power, Control and Computing Technologies (ICPC2T), 2020, April 2020_<br>
   
 Teaching
 ======
 I have been the Teaching Assistant in 2 labs for 2 sessions:<br>
 **1. [Machine Learning Lab](https://snehilsanyal.github.io/EE524/)**<br>
-**Sessions: Jul-Nov 2020, Jul-Nov 2021**
+**Sessions: Jul-Nov 2020, Jul-Nov 2021**<br>
 **2. [Digital Signal Processors Lab](https://snehilsanyal.github.io/EE521/)**<br>
 **Sessions: Jan-May 2021, Jan-May 2022**
