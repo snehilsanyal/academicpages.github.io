@@ -7,14 +7,14 @@ title: "Teaching Experience"
 <b>Jan-May 2022</b><br>
 <b>Mode: Remote/Discord</b>
 
-Repition of the earlier DSP Lab course.
+Repeatition of the earlier DSP Lab course.
 
 ## [Introduction to Machine Learning Lab]()<br>
 
 <b>Jul-Nov 2021</b><br>
 <b>Mode: Remote/Discord</b>
 
-Repition of the Jul-Nov 2020 lab course.
+Repeatition of the Jul-Nov 2020 lab course.
 
 ## [Digital Signal Processors Lab]()<br>
 
