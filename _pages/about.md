@@ -39,7 +39,7 @@ Please find the list of **Publications** [here](publications/). You can find my 
 
 **August 2021**
 
-Served as a reviewer in 2021 IEEE 18th India Council International Conference (INDICON) [link](https://www.ewh.ieee.org/r10/calcutta/indicon2021/index.html)
+- Served as a reviewer in 2021 IEEE 18th India Council International Conference (INDICON) [[link]](https://www.ewh.ieee.org/r10/calcutta/indicon2021/index.html)
 
 **May 2021**
 
