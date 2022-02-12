@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my updated CV [here]()<br>
+Please find my updated CV here: [Resume.pdf](https://github.com/snehilsanyal/snehilsanyal.github.io/files/8053036/Resume.pdf)<br>
 
 Education
 ======
