@@ -36,3 +36,11 @@ Please find the list of **Publications** [here](publications/). You can find my 
 
 - Our paper on the Indian Contextual Emotion Recognition Dataset was accepted at IEEE FG 2021 conference [[Link]](https://ieeexplore.ieee.org/document/9667034)
 - Participated in the [Contextual Emotion Learning Challenge](https://sites.google.com/iiitd.ac.in/contextualemotionrecognition/home) organized by IEEE conference on [Automatic Face and Gesture Recognition 2021](http://iab-rubric.org/fg2021/) 
+
+**August 2021**
+
+Served as a reviewer in 2021 IEEE 18th India Council International Conference (INDICON) [link](https://www.ewh.ieee.org/r10/calcutta/indicon2021/index.html)
+
+**May 2021**
+
+- Won the Dare to Dream 2.0 Competition organized by DRDO, India, more details [here](https://snehilsanyal.github.io/awards/)
