@@ -3,13 +3,13 @@ permalink: /teaching/
 title: "Teaching Experience"
 ---
 
-## [Digital Signal Processors Lab]()<br>
+## Digital Signal Processors Lab<br>
 <b>Jan-May 2022</b><br>
 <b>Mode: Remote/Discord</b>
 
 Repeatition of the earlier DSP Lab course.
 
-## [Introduction to Machine Learning Lab]()<br>
+## Introduction to Machine Learning Lab<br>
 
 <b>Jul-Nov 2021</b><br>
 <b>Mode: Remote/Discord</b>
