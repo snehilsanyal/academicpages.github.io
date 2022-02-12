@@ -59,7 +59,7 @@ Teaching
 ======
 I have been the Teaching Assistant in 2 labs for 2 sessions:<br>
 **1. [Machine Learning Lab](https://snehilsanyal.github.io/EE524/)**<br>
-**Sessions: Jul-Nov 2020, Jul-Nov 2021**<br>
+Sessions: Jul-Nov 2020, Jul-Nov 2021**<br>
 **2. [Digital Signal Processors Lab](https://snehilsanyal.github.io/EE521/)**<br>
-**Sessions: Jan-May 2021, Jan-May 2022**
+Sessions: Jan-May 2021, Jan-May 2022**
 
