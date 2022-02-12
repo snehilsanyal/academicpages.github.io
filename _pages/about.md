@@ -24,7 +24,7 @@ In my free time, I learn and build new things and constantly update my skills. R
 
 I love Mathematics, you can check my profile and some answers to basic questions, out at mathstackexchange [here](https://math.stackexchange.com/users/636469/snehil-sanyal)
 
-Please find the list of **Publications** [here](publications/). You can find my **Personal Projects** [here](projects/), **CV** [here](cv/), my **Teaching Experience** [here](teaching/) and **Awards and Honours**, [here](awards/). To check out my **Notebooks and Blogs** please refer to [this section](year-archive/)
+Please find the list of **Publications** [here](publications/). You can find my **Personal Projects** [here](projects/), **CV** [here](cv/), my **Teaching Experience** [here](teaching/) and **Awards and Honours**, [here](awards/).
 
 ## News
 
