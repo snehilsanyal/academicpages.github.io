@@ -30,7 +30,7 @@ Please find the list of **Publications** [here](publications/). You can find my 
 
 **February 2022**
 
-- **19th February 2022**, Attended a meetup  organized by TensorFlow User Group Pune on Introduction to Graph Neural Networks [link](https://www.meetup.com/Tensorflow-User-Group-Pune/events/283317095/)
+- **19th February 2022**, Attended a meetup  organized by TensorFlow User Group Pune on Introduction to Graph Neural Networks [[Link]](https://www.meetup.com/Tensorflow-User-Group-Pune/events/283317095/)
 
 **January 2022**
 
