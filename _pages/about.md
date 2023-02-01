@@ -28,6 +28,14 @@ Please find the list of **Publications** [here](publications/). You can find my 
 
 ## News
 
+**August 2022**
+
+- **7th - 14th August 2022**, Attended the Oxford ML Global School ([OxML 22](https://www.oxfordml.school/oxml2022)) organized by AI for Global Goals in collaboration with CIFAR and Oxford's Deep Medicine Program in **ML x Health** and **ML x Finance** tracks. 
+
+**June 2022**
+
+- **27th June - 29th June 2022**, Attended the Oxford ML Global School ([OxML 22](https://www.oxfordml.school/oxml2022)) organized by AI for Global Goals in collaboration with CIFAR and Oxford's Deep Medicine Program in **ML Fundamentals track**.
+
 **February 2022**
 
 - **19th February 2022**, Attended a meetup  organized by TensorFlow User Group Pune on Introduction to Graph Neural Networks [[Link]](https://www.meetup.com/Tensorflow-User-Group-Pune/events/283317095/)
